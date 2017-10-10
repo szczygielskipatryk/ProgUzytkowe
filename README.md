@@ -1,4 +1,4 @@
-# ProgUzytkowe#
+# ProgUzytkowe
 Patryk Szczygielski
-## Opis projektu##
+## Opis projektu
 Krótki opis projektu

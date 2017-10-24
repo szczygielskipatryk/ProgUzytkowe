@@ -1,0 +1,11 @@
+*.aux
+*.dvi
+*.pdf
+*.ps
+*.log
+*.out
+*.toc
+*.backup
+*.txt
+*.bbl
+*.blg

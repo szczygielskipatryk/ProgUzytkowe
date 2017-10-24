@@ -1,4 +1,4 @@
-# ProgUzytkowe#wyraz 
+# ProgUzytkowe
 Patryk Szczygielski
-## Opis projektu
-Krótki opis projektu
+# Opis projektu
+Æwiczenia z Programów U¿ytkowych

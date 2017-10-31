@@ -3,6 +3,7 @@
 *.pdf
 *.ps
 *.log
+*.lot
 *.out
 *.toc
 *.backup

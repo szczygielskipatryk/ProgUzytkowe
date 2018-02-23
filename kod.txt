@@ -1,0 +1,62 @@
+import math
+
+# import math as mat
+# from math import pow
+print(math.pi)
+"""moja funkcja zwraca costam
+"""
+ala = 'Ala'  # komentarz
+print('Marianna'.capitalize())
+kinga = "Kinga"
+zdanie = """To jest
+zdanie."""
+
+print(type(ala))
+
+liczba = 1
+liczba2 = 4.23
+print(liczba2)
+a = 8
+b = 4
+c = 3
+dzielenie = a / b
+print(dzielenie)
+dzielenie = a / c
+print(dzielenie)
+dodawanie = a + b
+print(dodawanie)
+dzielenie__calkowite = a // c
+print(dzielenie__calkowite)
+reszta = a % c
+print(reszta)
+potega = b ** c
+print(potega)
+potega = pow(b, c)
+print(potega)
+zad4= math.exp(10)
+print(zad4)
+zad4_22=math.sin(8)
+zad4_23=pow(zad4_22, 2)
+zad4_21=math.log(5+zad4_23)
+zad4_24=pow(zad4_21, 1/6)
+print(zad4_24)
+zad4_3=round(3.55)
+zad4_4=round(4.80)
+print(zad4_3)
+print(zad4_4)
+imie = 'patryk'
+nazwisko = 'szczygielski'
+print(imie.capitalize()+' '+ nazwisko.capitalize())
+fragment= 'la la mi amore la la'
+print(fragment.count('la'))
+wer='suma x i y to:'
+print(wer[0])
+print(wer[-1])
+wala='wala ma kota'
+print(wala)
+print(wala.split(" "))
+
+x=5
+y=3
+z=53
+print('wynik %(r)s + %(t)s = %(u)s'%{'x':r, 'y':t, 'z':u})
